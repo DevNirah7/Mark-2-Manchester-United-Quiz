@@ -5,7 +5,7 @@
 
 It's CLI(Command Line Interface) app which tests one's knowledge on Manchester United football club. The application displays the questions as well as options for the answer to the user. 
 
-The quiz has three levels with three questions in each level. Every correct answer rewards the user with one point. Wrong answer or skipping the question will award no points the user. The user has to answer atleast two questions correctly to clear each level.
+The quiz has three levels with three questions in each level. Every correct answer rewards the user with one point. Wrong answer or skipping the question will award no points the user. The user has to answer atleast two questions correctly to advance to the next level.
 
 
 ****
